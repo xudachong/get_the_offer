@@ -1,4 +1,4 @@
-package com.gdut.String;
+package com.gdut.string;
 
 /**
  * @Author: XuJuLong<5 7 4 4 0 8 5 7 8 @ qq.com>
