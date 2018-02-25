@@ -13,12 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ConstructBinaryTree_07.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConstructBinaryTree_07.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/tree/ConstructBinaryTree_07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="205">
+              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci_10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/Recursive/Fibonacci_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/String/ReplaceSpaces_05.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/tree/rebuildBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/tree/ConstructBinaryTree_07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gdut/Recursive/Fibonacci_10.java" />
       </list>
     </option>
   </component>
@@ -121,15 +135,6 @@
               <item name="GetTheOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="GetTheOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gdut" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GetTheOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GetTheOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -170,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Fibonacci_10">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -197,14 +202,14 @@
       <module name="GetTheOffer" />
       <envs />
     </configuration>
-    <configuration name="ContinueMaxArray_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Fibonacci_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.gdut.array.*" />
+          <option name="PATTERN" value="com.gdut.Recursive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.gdut.array.ContinueMaxArray_42" />
+      <option name="MAIN_CLASS_NAME" value="com.gdut.Recursive.Fibonacci_10" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -348,19 +353,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ContinueMaxArray_42" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TwoStackToQueue_09" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindInPartiallySortedMatrix_04" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReplaceSpaces_05" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ConstructBinaryTree_07" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TwoStackToQueue_09" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FindInPartiallySortedMatrix_04" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReplaceSpaces_05" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConstructBinaryTree_07" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ConstructBinaryTree_07" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReplaceSpaces_05" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindInPartiallySortedMatrix_04" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TwoStackToQueue_09" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ContinueMaxArray_42" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConstructBinaryTree_07" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReplaceSpaces_05" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FindInPartiallySortedMatrix_04" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TwoStackToQueue_09" />
       </list>
     </recent_temporary>
   </component>
@@ -383,12 +388,12 @@
       <workItem from="1516613435721" duration="3405000" />
       <workItem from="1516669007360" duration="2294000" />
       <workItem from="1516779501286" duration="76000" />
-      <workItem from="1519460041484" duration="9193000" />
+      <workItem from="1519460041484" duration="11075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19131000" />
+    <option name="totallyTimeSpent" value="21013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -403,8 +408,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25738916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08990148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25738916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1724138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1949244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -431,14 +436,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/gdut/tree/ConstructBinaryTree_07.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
@@ -574,9 +571,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/tree/ConstructBinaryTree_07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="205">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/Recursive/Fibonacci_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
