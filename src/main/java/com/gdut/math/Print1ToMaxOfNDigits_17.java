@@ -2,11 +2,11 @@ package com.gdut.math;
 
 /**
  * @Author: XuJuLong<5 7 4 4 0 8 5 7 8 @ qq.com>
- * @Description:
+ * @Description:打印从1到最大的n位数
  * @Date: Created in 21:15 2018/2/25
  * @
  */
-public class Print1ToMaxOfNDigits {
+public class Print1ToMaxOfNDigits_17 {
 
 	public static void prinf1ToMaxNDigits(int n){
 		if(n < 0){
