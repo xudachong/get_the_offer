@@ -25,25 +25,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinInStack_30.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/stack/MinInStack_30.java">
+      <file leaf-file-name="SequenceOfBST_33.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/tree/SequenceOfBST_33.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="16" column="87" lean-forward="true" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+            <state relative-caret-position="270">
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintTreeFromTopToBottom_32_01.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/queue/PrintTreeFromTopToBottom_32_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#533#543#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/stack/MinInStack_30.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/stack/StackPushPopOrder_31.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gdut/queue/PrintTreeFromTopToBottom_32_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gdut/tree/PrintTreesInZigzag_32_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gdut/tree/SequenceOfBST_33.java" />
       </list>
     </option>
   </component>
@@ -102,7 +91,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1942" />
@@ -163,7 +152,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gdut" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GetTheOffer" type="b2602c69:ProjectViewProjectNode" />
@@ -427,15 +416,15 @@
       <workItem from="1516779501286" duration="76000" />
       <workItem from="1519460041484" duration="13343000" />
       <workItem from="1519618227769" duration="7775000" />
-      <workItem from="1519698779164" duration="6843000" />
+      <workItem from="1519698779164" duration="8973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37899000" />
+    <option name="totallyTimeSpent" value="40029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -447,7 +436,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20320196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26600984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23522167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20140389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -717,8 +706,8 @@
         <state relative-caret-position="243">
           <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="false" />
+            <element signature="e#269#270#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -728,9 +717,44 @@
         <state relative-caret-position="216">
           <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding>
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/stack/StackPushPopOrder_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/tree/PrintTreesInZigzag_32_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/queue/PrintTreeFromTopToBottom_32_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/stack/MinInStack_30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="87" lean-forward="true" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -744,30 +768,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/stack/StackPushPopOrder_31.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/tree/SequenceOfBST_33.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/stack/MinInStack_30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" column="87" lean-forward="true" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gdut/queue/PrintTreeFromTopToBottom_32_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#533#543#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
