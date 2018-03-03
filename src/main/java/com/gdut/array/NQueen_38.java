@@ -7,7 +7,6 @@ package com.gdut.array;
  * @
  */
 public class NQueen_38 {
-
 	int N;
 	int sum=0;
 	int[] columnIndex;

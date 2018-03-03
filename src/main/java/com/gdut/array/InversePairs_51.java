@@ -32,13 +32,14 @@ public class InversePairs_51 {
 		if(begin == end) {
 			return 0;
 		}
-		int mid = (begin + end) / 2;
+		int mid = ((end - begin) >> 1) + begin;
 		// 递归调用
 		int left = iPairs(copy, array, begin, mid);
 		int right = iPairs(copy, array, mid + 1, end);
 		// 归并
 		int i = mid, j = end, pos = end;
-		int count = 0; // 记录相邻子数组间逆序数
+		// 记录相邻子数组间逆序数
+		int count = 0;
 
 		while(i >= begin && j >= mid + 1)
 		{
