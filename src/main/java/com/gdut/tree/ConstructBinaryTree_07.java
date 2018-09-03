@@ -41,7 +41,7 @@ public class ConstructBinaryTree_07 {
 			root.m_pLeft = ConstructCore(startPreorder+1,leftPreorderEnd,startInorder,rootInorder-1,preorder,inorder);
 		}
 		if(leftLength < endPreorder-startPreorder){
-			root.m_pRight = ConstructCore(leftPreorderEnd+1,leftPreorderEnd,rootInorder+1,endInorder,preorder,inorder);
+			root.m_pRight = ConstructCore(leftPreorderEnd+1,endPreorder,rootInorder+1,endInorder,preorder,inorder);
 		}
 		return root;
 	}
@@ -56,6 +56,6 @@ public class ConstructBinaryTree_07 {
 		int[] preorder = {1,2,4,7,3,5,6,8};
 		int[] inorder = {4,7,2,1,5,3,8,6};
 		BinaryTreeNode node= Construct(preorder,inorder);
-		System.out.println(node.m_pRight.m_nValue);
+		System.out.println(node.m_pRight.m_pRight.m_nValue);
 	}
 }

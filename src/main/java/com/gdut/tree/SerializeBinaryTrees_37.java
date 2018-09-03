@@ -1,5 +1,7 @@
 package com.gdut.tree;
 
+import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.Queue;
 import java.util.concurrent.LinkedBlockingQueue;
 

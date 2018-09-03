@@ -11,7 +11,7 @@ public class ReplaceSpaces_05 {
 	public static int count(String string){
 		int count = 0;
 		for (int i = 0; i < string.length(); ++i) {
-			if(String.valueOf(string.charAt(i)).equals(" ")){
+			if(string.charAt(i) == ' '){
 				++count;
 			}
 		}
@@ -40,10 +40,10 @@ public class ReplaceSpaces_05 {
 				newTemp[indexOfNew--] = '0';
 				newTemp[indexOfNew--] = '2';
 				newTemp[indexOfNew--] = '%';
+				--indexOfOriginal;
 			}else {
-				newTemp[indexOfNew--] = newTemp[indexOfOriginal];
+				newTemp[indexOfNew--] = newTemp[indexOfOriginal--];
 			}
-			--indexOfOriginal;
 		}
 		System.out.print("替换空格后的字符串：");
 		printChar(newTemp);

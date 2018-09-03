@@ -14,7 +14,7 @@ public class FindInPartiallySortedMatrix_04 {
 		if(array != null && array.length > 0 && array[0].length >0) {
 			int row =0;
 			int column = array[0].length - 1;
-			while (row < array.length && column > 0){
+			while (row < array.length && column >= 0){
 				if(array[row][column] == number){
 					found = true;
 					break;
