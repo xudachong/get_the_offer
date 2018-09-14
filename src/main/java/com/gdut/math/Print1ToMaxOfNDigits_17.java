@@ -16,18 +16,15 @@ public class Print1ToMaxOfNDigits_17 {
 		for (int i = 0; i < n; ++i) {
 			number.append('0');
 		}
-		for (int i = 0;i < 10;++i){
-			number.setCharAt(0, (char) (i+'0'));
 			prinf1ToMaxNDigitsRecursively(number,n,0);
-		}
 	}
 	public static void prinf1ToMaxNDigitsRecursively(StringBuffer number,int length,int index){
-		if(index == length-1){
+		if(index == length){
 			prinfNumber(number);
 			return;
 		}
 		for(int i = 0;i < 10;++i){
-			number.setCharAt(index+1, (char) (i+'0'));
+			number.setCharAt(index, (char) (i+'0'));
 			prinf1ToMaxNDigitsRecursively(number,length,index+1);
 		}
 	}
@@ -47,7 +44,7 @@ public class Print1ToMaxOfNDigits_17 {
 	}
 
 	public static void main(String[] args) {
-		prinf1ToMaxNDigits(2);
+		prinf1ToMaxNDigits(3);
 	}
 
 }

@@ -43,6 +43,7 @@ public class StringPathInMatrix {
 	}
 
 	public static void main(String[] args) {
+
 		String[][] matrix = {
 				{"a","b","t","g"},
 				{"c","f","c","s"},
